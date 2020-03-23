@@ -1,4 +1,4 @@
-<?php include("layouts/head.php"); ?>
+<?php include("../layouts/head.php"); ?>
 
 	<div class="offSetPage">
 		<main>

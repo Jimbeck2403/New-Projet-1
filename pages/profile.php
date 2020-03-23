@@ -1,4 +1,4 @@
-<?php include("layouts/head.php"); ?>
+<?php include("../layouts/head.php"); ?>
 
 	<div class="offSetPage">
 		<main>
@@ -83,7 +83,7 @@
 				</form>
 			</div>
 
-			<?php include("layouts/footer.php"); ?>
+			<?php include("../layouts/footer.php"); ?>
 
 		</main>
 	</div>
