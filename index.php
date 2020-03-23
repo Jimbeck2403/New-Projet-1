@@ -18,7 +18,7 @@
 					special and surprising.
 				</p>
 				<div class="centerSec">
-					<a href="/profile.php" class="homeButton">About me</a>
+					<a href="profile.php" class="homeButton">About me</a>
 				</div>
 			</section>
 			<section>
@@ -58,7 +58,7 @@
 
 			<!-- Button -->
 			<div class="nxtGal">
-				<a href="pages/galleryTheme.php" class="homeButton">See the gallery</a>
+				<a href="galleryTheme.php" class="homeButton">See the gallery</a>
 			</div>
 
 
